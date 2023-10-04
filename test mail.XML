@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2023-09-26T01:09:30.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="tw17K-ntOBD1X9JiSuKe" version="21.7.5" type="github">
+  <diagram name="第 1 页" id="6TSyiVdle8iU0_IzGnpU">
+    <mxGraphModel dx="1916" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gm0C6UakMJHU8GcWAUWl-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="310" y="49.83" width="605.8" height="601.83" as="geometry" />
+        </mxCell>
+        <mxCell id="12ae3frHGvqBDCMUcqmj-3" value="" style="shape=mxgraph.cisco.servers.fileserver;html=1;dashed=0;fillColor=#10739E;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;fontFamily=Helvetica;fontSize=36;fontColor=#FFB366" parent="12ae3frHGvqBDCMUcqmj-1" vertex="1">
+          <mxGeometry x="28" width="504.58" height="434" as="geometry" />
+        </mxCell>
+        <mxCell id="12ae3frHGvqBDCMUcqmj-3" value="" style="shape=mxgraph.cisco.servers.fileserver;html=1;dashed=0;fillColor=#10739E;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;fontFamily=Helvetica;fontSize=36;fontColor=#FFB366" parent="12ae3frHGvqBDCMUcqmj-1" vertex="1">
+          <mxGeometry y="213.17000000000002" width="605.8" height="388.66" as="geometry" />
+        </mxCell>
+        <mxCell id="gm0C6UakMJHU8GcWAUWl-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-140" y="30" width="521.28" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="12ae3frHGvqBDCMUcqmj-3" value="" style="shape=mxgraph.cisco.servers.fileserver;html=1;dashed=0;fillColor=#10739E;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;fontFamily=Helvetica;fontSize=36;fontColor=#FFB366" parent="12ae3frHGvqBDCMUcqmj-1" vertex="1">
+          <mxGeometry width="492.17244766270534" height="391.46201617565464" as="geometry" />
+        </mxCell>
+        <mxCell id="12ae3frHGvqBDCMUcqmj-3" value="" style="shape=mxgraph.cisco.servers.fileserver;html=1;dashed=0;fillColor=#10739E;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;fontFamily=Helvetica;fontSize=36;fontColor=#FFB366" parent="12ae3frHGvqBDCMUcqmj-1" vertex="1">
+          <mxGeometry x="34.021592920353974" y="192.49223821620092" width="480.7927378901573" height="362.3982374165668" as="geometry" />
+        </mxCell>
+        <mxCell id="12ae3frHGvqBDCMUcqmj-3" value="" style="shape=mxgraph.cisco.servers.fileserver;html=1;dashed=0;fillColor=#10739E;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;fontFamily=Helvetica;fontSize=36;fontColor=#FFB366" parent="12ae3frHGvqBDCMUcqmj-1" vertex="1">
+          <mxGeometry x="4.90141592920354" y="293.4048358265123" width="475.9563612368243" height="318.57497508248406" as="geometry" />
+        </mxCell>
+        <mxCell id="gm0C6UakMJHU8GcWAUWl-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="880" y="71.66" width="602.8" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="12ae3frHGvqBDCMUcqmj-3" value="" style="shape=mxgraph.cisco.servers.fileserver;html=1;dashed=0;fillColor=#10739E;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;fontFamily=Helvetica;fontSize=36;fontColor=#FFB366" parent="12ae3frHGvqBDCMUcqmj-1" vertex="1">
+          <mxGeometry width="546.175032931622" height="386.42672850191065" as="geometry" />
+        </mxCell>
+        <mxCell id="12ae3frHGvqBDCMUcqmj-3" value="" style="shape=mxgraph.cisco.servers.fileserver;html=1;dashed=0;fillColor=#10739E;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;fontFamily=Helvetica;fontSize=36;fontColor=#FFB366" parent="12ae3frHGvqBDCMUcqmj-1" vertex="1">
+          <mxGeometry x="31.901212789415656" y="257.0937435361486" width="542.3865355933681" height="322.9062564638515" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
